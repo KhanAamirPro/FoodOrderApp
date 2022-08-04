@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FoodieCorner.ConsoleApp", "FoodieCorner.ConsoleApp\FoodieCorner.ConsoleApp.csproj", "{B841DF74-3873-47A9-91CC-6780FDC23BD0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FoodieCorner.Backend", "FoodieCorner.Backend\FoodieCorner.Backend.csproj", "{EF16292A-9FFB-4E8F-B1F2-D1F645BC2B1B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B841DF74-3873-47A9-91CC-6780FDC23BD0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B841DF74-3873-47A9-91CC-6780FDC23BD0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B841DF74-3873-47A9-91CC-6780FDC23BD0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B841DF74-3873-47A9-91CC-6780FDC23BD0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EF16292A-9FFB-4E8F-B1F2-D1F645BC2B1B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF16292A-9FFB-4E8F-B1F2-D1F645BC2B1B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF16292A-9FFB-4E8F-B1F2-D1F645BC2B1B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF16292A-9FFB-4E8F-B1F2-D1F645BC2B1B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1E62FC6C-D756-441F-A9E8-FB678B8ED0E7}
+	EndGlobalSection
+EndGlobal
